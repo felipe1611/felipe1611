@@ -3,7 +3,7 @@
 
 Meu nome é Felipe
 
-↪️Estou estudando n alura✒📈
+↪️Estou estudando na alura✒📈
 ↪️Estou me desenvolvendo na linguagem javascript👨‍💻 
 ↪️Utilizo esse espaço paa minha organização e compartilhamento dos meus projetos desenvolvidos
 
